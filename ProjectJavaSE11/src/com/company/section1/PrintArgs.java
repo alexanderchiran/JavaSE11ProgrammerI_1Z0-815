@@ -1,11 +1,10 @@
 /*
-Learn Programming Academy's Java 1Z0-815 Certification Exam Course
-Section 2: Create an executable Java program
+Section 1: Create an executable Java program
 */
 
-package com.company;
+package com.company.section1;
 
-public class PrintArgsComplete {
+public class PrintArgs {
 
     public static void main(String[] args) {
 

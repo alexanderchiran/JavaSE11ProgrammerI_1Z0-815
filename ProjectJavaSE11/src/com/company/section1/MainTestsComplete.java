@@ -1,6 +1,6 @@
 /*
-Learn Programming Academy's Java 1Z0-815 Certification Exam Course
-Section 2: Create an executable Java program
+Java 1Z0-815 Certification Exam Course
+Section 1: Create an executable Java program
 */
 package com.company.section1;
 
