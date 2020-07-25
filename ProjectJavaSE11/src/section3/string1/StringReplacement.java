@@ -26,10 +26,11 @@ public class StringReplacement {
         resultArray[3] = "Replace first match of regexp [i with 2 characters(s or p)] " +
                 "with literal \"ax\" : " +
                 mississippi.replaceFirst("(i(s|p){2})", "ax");
-
+        var i=0;
         // Printing our resultArray to console
         for (String result : resultArray) {
-            System.out.println(result);
+
+            System.out.println("result "+i+" "+ result); i++;
         }
 
         // ... substring and subSequence examples...
@@ -56,5 +57,11 @@ public class StringReplacement {
         mississippi = mississippi.substring(0, 4);
         System.out.println("mississippi = " + mississippi);
 
+        String numeros="0123456789";
+        System.out.println("numeros = " + numeros.substring(2,5));
+
+        String cadena ="hola mundo hola mundo hola mundo";
+        cadena = cadena.replace("hola","chao");
+        System.out.println("Cadena "+cadena);
     }
 }
