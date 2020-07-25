@@ -30,6 +30,12 @@ import java.util.GregorianCalendar;
  * That’s all for a quick roundup of difference between String, StringBuffer, and StringBuilder. StringBuilder is better suited than StringBuffer in most of the general programming scenarios.
  *
  */
+/**
+ * Java SE 11 Programmer I_1Z0-815
+ * Paulo Alexander Chiran Portillo
+ * paulo.alexander12@gmial.com
+ *
+ */
 public class TestString {
 
     public static void main(String[] args) {

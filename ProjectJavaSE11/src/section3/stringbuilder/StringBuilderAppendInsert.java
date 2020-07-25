@@ -1,5 +1,7 @@
 package section3.stringbuilder;
-
+/**
+ * Paulo Alexander Chiran Portillo
+ */
 public class StringBuilderAppendInsert {
     public static void main(String[] args) {
 

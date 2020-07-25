@@ -1,5 +1,10 @@
 package section3;
-
+/**
+ * Java SE 11 Programmer I_1Z0-815
+ * Paulo Alexander Chiran Portillo
+ * paulo.alexander12@gmial.com
+ *
+ */
 public class NestedScope {
     public static void main(String[] args) {
         // local variable i declared and initialized

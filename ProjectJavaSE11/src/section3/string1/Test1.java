@@ -14,6 +14,12 @@ D. Change Line 4 to : System.out.print((arg==sb) + " ");
 E. Change Line 5 to : System.out.print( (hello.equals(arg.intern())) +" ");
 F. Change Line 6 to : System.out.println( (hello==arg.intern()));
 * */
+/**
+ * Java SE 11 Programmer I_1Z0-815
+ * Paulo Alexander Chiran Portillo
+ * paulo.alexander12@gmial.com
+ *
+ */
 public class Test1 {
         public static void main(String... args) {  //  Line 1
 

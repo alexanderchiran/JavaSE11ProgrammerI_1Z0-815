@@ -1,5 +1,10 @@
 package section3;
-
+/**
+ * Java SE 11 Programmer I_1Z0-815
+ * Paulo Alexander Chiran Portillo
+ * paulo.alexander12@gmial.com
+ *
+ */
 public class Bar {
     // Default values for numeric static variables set to a representation of 0
     static byte staticBarByte;

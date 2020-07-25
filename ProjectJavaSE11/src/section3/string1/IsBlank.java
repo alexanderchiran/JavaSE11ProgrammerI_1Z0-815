@@ -1,5 +1,10 @@
 package section3.string1;
-
+/**
+ * Java SE 11 Programmer I_1Z0-815
+ * Paulo Alexander Chiran Portillo
+ * paulo.alexander12@gmial.com
+ *
+ */
 public class IsBlank {
     public static void main(String[] args){
         System.out.println("".isEmpty()); // Prints - True

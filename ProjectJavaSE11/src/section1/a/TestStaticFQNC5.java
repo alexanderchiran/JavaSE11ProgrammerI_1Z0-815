@@ -1,13 +1,15 @@
 package section1.a;
 
 import section1.a.d.StaticImportTest1;
-
-import static section1.a.d.StaticImportTest1.*;
-
 import section1.a.e.StaticImportTest2;
 
+import static section1.a.d.StaticImportTest1.log;
 import static section1.a.e.StaticImportTest2.APP_NAME;
-
+/**
+ * Paulo Alexander Chiran Portillo
+ * paulo.alexander12@gmial.com
+ *
+ */
 public class TestStaticFQNC5 {
     public static void main(String[] args) {
         // APP_NAME in line below can be referenced without class name

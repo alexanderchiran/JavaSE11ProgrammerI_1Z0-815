@@ -1,7 +1,11 @@
 package section1.quiz2.domain;
 
 import section1.quiz2.Dog;
-
+/**
+ * Paulo Alexander Chiran Portillo
+ * paulo.alexander12@gmial.com
+ *
+ */
 /**
  * Compila en la ruta src/com/company/section1/quiz2/ la clase Dog.class
  *javac -d out com/company/section1/quiz2/*.java

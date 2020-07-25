@@ -14,7 +14,12 @@ import static java.lang.Math.sqrt;
 //// A static-import on demand declaration for static variable
 //import static java.lang.Math.*;
 
-
+/**
+ * Java SE 11 Programmer I_1Z0-815
+ * Paulo Alexander Chiran Portillo
+ * paulo.alexander12@gmial.com
+ *
+ */
 public class TestFQNC3 {
     public static void main(String[] args) {
         int radius = 2;

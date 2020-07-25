@@ -1,5 +1,9 @@
 package section1;
-
+/**
+ * Paulo Alexander Chiran Portillo
+ * paulo.alexander12@gmial.com
+ *
+ */
 public class Main {
     /**
      * Es permitido todos los sigueintes tipos de arreglos

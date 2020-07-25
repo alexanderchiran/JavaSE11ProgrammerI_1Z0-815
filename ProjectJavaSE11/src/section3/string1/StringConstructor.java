@@ -2,7 +2,12 @@ package section3.string1;
 
 
 import java.util.List;
-
+/**
+ * Java SE 11 Programmer I_1Z0-815
+ * Paulo Alexander Chiran Portillo
+ * paulo.alexander12@gmial.com
+ *
+ */
 public class StringConstructor {
     public static void main(String[] args) {
         int alphabet_len = 26;

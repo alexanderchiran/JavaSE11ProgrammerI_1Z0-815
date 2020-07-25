@@ -1,5 +1,8 @@
 package section3.stringbuilder;
 
+/**
+ * Paulo Alexander Chiran Portillo
+ */
 public class StringBuilderManipulation {
     public static void main(String[] args) {
 
