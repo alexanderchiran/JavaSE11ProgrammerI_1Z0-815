@@ -1,4 +1,4 @@
-package section2;
+package section3;
 
 public class Person {
     static String name = "UNKNOWN";  // Class Variable

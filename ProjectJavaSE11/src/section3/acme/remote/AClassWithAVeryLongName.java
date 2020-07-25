@@ -1,4 +1,4 @@
-package section2.acme.remote;
+package section3.acme.remote;
 
 public class AClassWithAVeryLongName {
     String name;

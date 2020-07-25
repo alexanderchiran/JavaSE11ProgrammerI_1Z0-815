@@ -1,4 +1,4 @@
-package section2;
+package section3;
 
 public class TestPerson {
     public static void main(String[] args) {

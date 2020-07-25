@@ -1,9 +1,8 @@
-package section2.acme;
+package section3.acme;
 
-import section2.acme.remote.AClassWithAVeryLongName;
+import section3.acme.remote.AClassWithAVeryLongName;
 
 import java.io.*;
-import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLConnection;
 import java.nio.file.Files;
@@ -11,7 +10,6 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.function.BiFunction;
 
 /**
  * Local Variable Type Inference

@@ -1,4 +1,4 @@
-package section2;
+package section3;
 
 public class Bar {
     // Default values for numeric static variables set to a representation of 0

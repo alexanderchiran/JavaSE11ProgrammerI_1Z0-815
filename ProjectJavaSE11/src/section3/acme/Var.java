@@ -1,4 +1,4 @@
-package section2.acme;
+package section3.acme;
 /**
  * Local Variable Type Inference
  *  https://openjdk.java.net/projects/amber/LVTIFAQ.html#:~:text=var%20can%20be%20used%20in,static%20type%20of%20the%20variable.
