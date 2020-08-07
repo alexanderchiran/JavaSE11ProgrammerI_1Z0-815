@@ -2,7 +2,7 @@ package section4.loopstructures;
 
 /**
  *Java SE 11Programmer I_1Z0-815
- *Paulo Alexander Chiran Portillo
+ *Paulo Alexander Chirán Portillo
  *paulo.alexander12@gmial.com
  */
 public class ForLoopExample1 {
