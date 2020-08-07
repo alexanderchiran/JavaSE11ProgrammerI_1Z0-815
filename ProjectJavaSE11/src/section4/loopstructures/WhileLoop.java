@@ -1,5 +1,9 @@
 package section4.loopstructures;
-
+/**
+ *Java SE 11Programmer I_1Z0-815
+ *Paulo Alexander Chiran Portillo
+ *paulo.alexander12@gmial.com
+ */
 public class WhileLoop {
     public static void main(String[] args) {
 

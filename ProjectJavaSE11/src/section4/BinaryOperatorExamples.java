@@ -4,10 +4,10 @@ package section4;
  * https://www.tutorialspoint.com/Bitwise-right-shift-operator-in-Java#:~:text=The%20signed%20right%20shift%20operator,to%20fill%20the%20trailing%20positions.&text=In%20Java%2C%20negative%20numbers%20are%20stored%20as%202's%20complement.
  * https://www.geeksforgeeks.org/bitwise-shift-operators-in-java/
  *
-        **Java SE 11Programmer I_1Z0-815
-        **Paulo Alexander Chiran Portillo
-        **paulo.alexander12@gmial.com
- ****/
+*Java SE 11Programmer I_1Z0-815
+ *Paulo Alexander Chiran Portillo
+ *paulo.alexander12@gmial.com
+ */
 public class BinaryOperatorExamples {
     public static void main(String[] args) {
 
