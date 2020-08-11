@@ -9,10 +9,10 @@ class Constants {
 
     // Compile error if static intitializer removed
     final static String THREE;
-
     static {
         THREE = "final static field THREE = three";
     }
+
 
 }
 
@@ -24,7 +24,7 @@ public class FinalFields {
     // initializer sets final field four
     {
         FOUR = "final field FOUR = four";
-//        FIVE = "final field FIVE =  five";
+       // FIVE = "final field FIVE =  five";
     }
 
     final String FIVE;
