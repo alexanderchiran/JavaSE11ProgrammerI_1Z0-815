@@ -1,6 +1,6 @@
 package section6.objects;
 
-public class test2 {
+public class Test2 {
 
         public static void main(String[] args) {
             //invalid
