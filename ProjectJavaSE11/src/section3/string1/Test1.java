@@ -51,7 +51,7 @@ class Test2{
     }
 }
 
-// ------------------------------  Source List for Test.java -----------------------
+// ------------------------------  Source List for Test2.java -----------------------
 
 /**
  * the code compile, run, and print null

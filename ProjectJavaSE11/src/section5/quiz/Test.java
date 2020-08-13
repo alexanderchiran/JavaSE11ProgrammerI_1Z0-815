@@ -1,4 +1,4 @@
-package section5.arrays;
+package section5.quiz;
 
 import java.util.Arrays;
 

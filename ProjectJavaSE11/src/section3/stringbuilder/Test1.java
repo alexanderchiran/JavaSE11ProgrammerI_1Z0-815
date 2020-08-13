@@ -7,7 +7,7 @@ package section3.stringbuilder;
  *
  */
 public class Test1 {
-    // --------------  Test.java source code ------------------
+    // --------------  Test2.java source code ------------------
         public static void main(String[] args) {
 
             StringBuilder builder = new StringBuilder(5);  //  Line 1

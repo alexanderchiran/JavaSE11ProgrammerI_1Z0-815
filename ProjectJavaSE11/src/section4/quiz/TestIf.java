@@ -1,4 +1,4 @@
-package section4;
+package section4.quiz;
 
 public class TestIf {
 

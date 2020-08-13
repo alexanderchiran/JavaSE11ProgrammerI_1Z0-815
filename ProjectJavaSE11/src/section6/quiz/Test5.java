@@ -1,4 +1,4 @@
-package section6.objects;
+package section6.quiz;
 
 class TestStatic {
     static String name = "Mary";

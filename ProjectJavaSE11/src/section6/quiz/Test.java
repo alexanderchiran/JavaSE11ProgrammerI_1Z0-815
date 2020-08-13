@@ -1,4 +1,4 @@
-package section6.objects;
+package section6.quiz;
 
 class TestData {
     String name;

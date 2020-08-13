@@ -1,11 +1,11 @@
-package section4.loopstructures;
+package section4.quiz;
 
 /**
  *Java SE 11Programmer I_1Z0-815
  *Paulo Alexander Chiran Portillo
  *paulo.alexander12@gmial.com
  */
-public class Test {
+public class Test2 {
         static int testVariable;
 
         public static void main(String[] args) {
@@ -33,7 +33,7 @@ public class Test {
 
 }
 
-class Test2 {
+class Test3 {
     static int testVariable;
 
     public static void main(String[] args) {

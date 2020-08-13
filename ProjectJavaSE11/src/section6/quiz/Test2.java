@@ -1,4 +1,4 @@
-package section6.objects;
+package section6.quiz;
 /**
  * https://docs.oracle.com/javase/specs/jls/se11/html/jls-8.html#jls-ClassBody
  * Java SE 11 Programmer I_1Z0-815
