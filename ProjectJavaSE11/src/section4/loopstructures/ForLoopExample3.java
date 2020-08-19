@@ -2,7 +2,7 @@ package section4.loopstructures;
 /**
  *Java SE 11Programmer I_1Z0-815
  *Paulo Alexander Chiran Portillo
- *paulo.alexander12@gmial.com
+ *paulo.alexander12@gmail.com
  */
 public class ForLoopExample3 {
     // Create a method which may throw an exception and returns an int

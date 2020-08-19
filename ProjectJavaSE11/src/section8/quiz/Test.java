@@ -4,7 +4,7 @@ import section8.quiz.pkga.SuperClass;
 /**
  * Java SE 11 Programmer 1Z0-815
  * Paulo Alexander Chirán Portillo
- * paulo.alexander12@gmial.com
+ * paulo.alexander12@gmail.com
  *
  */
 public class Test extends SuperClass {  // Line 1

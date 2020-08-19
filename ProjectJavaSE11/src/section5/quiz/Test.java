@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  *  Java SE 11 Programmer I_1Z0-815
  *  Paulo Alexander Chirán Portillo
- *  paulo.alexander12@gmial.com
+ *  paulo.alexander12@gmail.com
  *
  * Correct Answer: elements in bArray are never initialized, so if you try to loop through it and use auto unboxing in
  * the for loop to assign a value to an int, this will throw a NullPointerException. If you changed Line 2 to the following

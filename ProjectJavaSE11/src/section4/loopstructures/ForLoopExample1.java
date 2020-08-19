@@ -3,7 +3,7 @@ package section4.loopstructures;
 /**
  *Java SE 11Programmer I_1Z0-815
  *Paulo Alexander Chirán Portillo
- *paulo.alexander12@gmial.com
+ *paulo.alexander12@gmail.com
  */
 public class ForLoopExample1 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package section9;
+package section9.animal;
 
 enum Level {
     LOW,

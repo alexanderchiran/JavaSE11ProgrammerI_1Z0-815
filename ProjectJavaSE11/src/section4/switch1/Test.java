@@ -4,7 +4,7 @@ package section4.switch1;
  * https://medium.com/codefx-weekly/switch-expressions-and-java-ee-modules-in-java-11-c4efc8811e36
  *Java SE 11Programmer I_1Z0-815
  *Paulo Alexander Chiran Portillo
- *paulo.alexander12@gmial.com
+ *paulo.alexander12@gmail.com
  */
 public class Test {
     public static float getTaxRate(String state) {

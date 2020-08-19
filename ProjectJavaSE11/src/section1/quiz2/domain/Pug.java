@@ -3,7 +3,7 @@ package section1.quiz2.domain;
 import section1.quiz2.Dog;
 /**
  * Paulo Alexander Chiran Portillo
- * paulo.alexander12@gmial.com
+ * paulo.alexander12@gmail.com
  *
  */
 /**

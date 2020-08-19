@@ -7,7 +7,7 @@ import java.util.List;
  * Arrays https://www.baeldung.com/java-initialize-array
  * Java SE 11 Programmer I_1Z0-815
  * Paulo Alexander Chirán Portillo
- * paulo.alexander12@gmial.com
+ * paulo.alexander12@gmail.com
  *
  */
 public class ListDataManipulation {

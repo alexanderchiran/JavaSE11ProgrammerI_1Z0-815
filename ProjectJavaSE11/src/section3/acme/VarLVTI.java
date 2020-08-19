@@ -6,7 +6,7 @@ import java.util.Arrays;
 /**
  * Java SE 11 Programmer I_1Z0-815
  * Paulo Alexander Chiran Portillo
- * paulo.alexander12@gmial.com
+ * paulo.alexander12@gmail.com
  *
  */
 /**

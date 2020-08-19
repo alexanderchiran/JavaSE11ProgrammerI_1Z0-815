@@ -1,9 +1,9 @@
-package section9;
+package section9.animal;
 /**
  * https://docs.oracle.com/javase/specs/jls/se11/html/jls-8.html#jls-ClassBody
  * Java SE 11 Programmer I_1Z0-815
  * Paulo Alexander Chirán Portillo
- * paulo.alexander12@gmial.com
+ * paulo.alexander12@gmail.com
  *
  */
 /*
@@ -14,7 +14,7 @@ Topic: Create and use subclasses and superclasses
 
 import java.time.LocalDate;
 
-class Dog extends Animal {
+class Dog extends section9.animal.Animal {
 
     // Supplement fields
     private int pedigreeId;
@@ -59,7 +59,7 @@ public class AnimalVisit {
         System.out.println(level);
 
         // Create a Dog
-        Dog pug = new Dog("George", "Ralph", "Pug", Animal.AnimalType.DOG, 775533);
+        Dog pug = new Dog("George", "Ralph", "Pug", section9.animal.Animal.AnimalType.DOG, 775533);
 
         // Call a method on the superclass from the subclass instance
         pug.setChipDate(LocalDate.now());
@@ -71,7 +71,7 @@ public class AnimalVisit {
         System.out.println("4. Chip Date = " + pug.getChipDate());
 
         // Try to force the call to the parent's method
-        Animal a = pug;
+        section9.animal.Animal a = pug;
         System.out.println("5. Chip Date = " + a.getChipDate());
 
         // Call the supplemented method

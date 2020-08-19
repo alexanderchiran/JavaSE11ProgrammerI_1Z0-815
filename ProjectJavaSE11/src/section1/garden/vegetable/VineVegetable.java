@@ -1,7 +1,7 @@
 package section1.garden.vegetable;
 /**
  * Paulo Alexander Chiran Portillo
- * paulo.alexander12@gmial.com
+ * paulo.alexander12@gmail.com
  *
  */
 /**

@@ -9,7 +9,7 @@ import static java.lang.System.*;
 /**
  * Java SE 11 Programmer I_1Z0-815
  * Paulo Alexander Chiran Portillo
- * paulo.alexander12@gmial.com
+ * paulo.alexander12@gmail.com
  *
  */
 public class TestFQNC2 {

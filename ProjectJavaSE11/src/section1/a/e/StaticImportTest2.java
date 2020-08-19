@@ -1,7 +1,7 @@
 package section1.a.e;
 /**
  * Paulo Alexander Chiran Portillo
- * paulo.alexander12@gmial.com
+ * paulo.alexander12@gmail.com
  *
  */
 public class StaticImportTest2 {

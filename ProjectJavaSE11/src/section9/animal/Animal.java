@@ -1,9 +1,9 @@
-package section9;
+package section9.animal;
 /**
  * https://docs.oracle.com/javase/specs/jls/se11/html/jls-8.html#jls-ClassBody
  * Java SE 11 Programmer I_1Z0-815
  * Paulo Alexander Chirán Portillo
- * paulo.alexander12@gmial.com
+ * paulo.alexander12@gmail.com
  *
  */
 /*

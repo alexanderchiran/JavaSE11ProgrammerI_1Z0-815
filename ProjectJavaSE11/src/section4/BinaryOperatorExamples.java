@@ -6,7 +6,7 @@ package section4;
  *
 *Java SE 11Programmer I_1Z0-815
  *Paulo Alexander Chiran Portillo
- *paulo.alexander12@gmial.com
+ *paulo.alexander12@gmail.com
  */
 public class BinaryOperatorExamples {
     public static void main(String[] args) {

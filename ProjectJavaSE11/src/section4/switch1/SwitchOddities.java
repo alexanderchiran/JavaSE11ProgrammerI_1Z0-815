@@ -4,7 +4,7 @@ package section4.switch1;
  * https://www.journaldev.com/980/java-break-statement-label
  * Java SE 11 Programmer I_1Z0-815
  * Paulo Alexander Chiran Portillo
- * paulo.alexander12@gmial.com
+ * paulo.alexander12@gmail.com
  *
  */
 public class SwitchOddities {

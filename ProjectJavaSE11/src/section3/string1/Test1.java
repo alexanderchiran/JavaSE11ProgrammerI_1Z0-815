@@ -17,7 +17,7 @@ F. Change Line 6 to : System.out.println( (hello==arg.intern()));
 /**
  * Java SE 11 Programmer I_1Z0-815
  * Paulo Alexander Chiran Portillo
- * paulo.alexander12@gmial.com
+ * paulo.alexander12@gmail.com
  *
  */
 public class Test1 {
