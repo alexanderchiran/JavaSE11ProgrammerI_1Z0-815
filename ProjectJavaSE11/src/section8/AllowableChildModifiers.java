@@ -69,30 +69,30 @@ public class AllowableChildModifiers {
     public static void main(String[] args) {
 
         Animal animal = new Animal();
-        System.out.println("Created a generic animal with defaults:");
-        System.out.println(animal.toString());
+        System.out.println("1 Created a generic animal with defaults:");
+        System.out.println("2. "+animal.toString());
 
-        System.out.println("Created a specific dog");
+        System.out.println("3. Created a specific dog");
         Dog pug = new Dog("Fran", "Brandy", "Pug","yellow","grande");
-        System.out.println(pug.toString());
+        System.out.println("4. "+pug.toString());
 
-        System.out.println("Pug's type is " + pug.type);
-        System.out.println("Pug's breed is " + pug.breed);
-        System.out.println("Pug's owner is " + pug.owner);
-        System.out.println("Pug's color is " + pug.color);
-        System.out.println("Pug's size is " + pug.size);
+        System.out.println("5. Pug's type is " + pug.type);
+        System.out.println("6. Pug's breed is " + pug.breed);
+        System.out.println("7. Pug's owner is " + pug.owner);
+        System.out.println("8. Pug's color is " + pug.color);
+        System.out.println("9. Pug's size is " + pug.size);
         System.out.println("---------------------------------------------------");
 
-        System.out.println("Pug's breed is " + animal.breed);
-        System.out.println("Pug's owner is " + animal.owner);
-        System.out.println("Pug's name is " + animal.name);
-        System.out.println("Pug's color is " + animal.color);
+        System.out.println("10. Pug's breed is " + animal.breed);
+        System.out.println("11. Pug's owner is " + animal.owner);
+        System.out.println("12. Pug's name is " + animal.name);
+        System.out.println("13. Pug's color is " + animal.color);
         System.out.println("---------------------------------------------------");
         animal = pug;
-        System.out.println("Pug's breed is " + animal.breed);
-        System.out.println("Pug's owner is " + animal.owner);
-        System.out.println("Pug's name is " + animal.name);
-        System.out.println("Pug's color is " + animal.color);
+        System.out.println("14. Pug's breed is " + animal.breed);
+        System.out.println("15. Pug's owner is " + animal.owner);
+        System.out.println("16. Pug's name is " + animal.name);
+        System.out.println("17. Pug's color is " + animal.color);
        //error type is private
         // System.out.println("Pug's type is " + a.type);
     }
