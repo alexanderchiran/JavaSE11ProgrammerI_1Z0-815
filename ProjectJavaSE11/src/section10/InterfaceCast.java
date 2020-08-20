@@ -6,6 +6,7 @@ package section10;
  * paulo.alexander12@gmail.com
  *
  */
+
 /*
 Learn Programming Academy's Java 1Z0-815 Certification Exam Course
 Section 10: Programming Abstractly Through Interfaces
