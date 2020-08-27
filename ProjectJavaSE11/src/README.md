@@ -24,6 +24,12 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/ArrayList
 https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html#syntax
 https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/Lambda-QuickStart/index.html
 
+# Section 11
+
+##How to Throw Exceptions
+https://docs.oracle.com/javase/tutorial/essential/exceptions/definition.html
+https://docs.oracle.com/javase/tutorial/essential/exceptions/throwing.html
+
 ## Shortcuts
 psvm
 sout
