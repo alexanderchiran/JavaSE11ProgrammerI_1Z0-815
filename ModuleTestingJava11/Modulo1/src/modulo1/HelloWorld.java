@@ -1,6 +1,7 @@
-package modular;
+package modulo1;
 
-import mod2.GoobyeWorld;
+import modulo2.GoobyeWorld;
+
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello world");
