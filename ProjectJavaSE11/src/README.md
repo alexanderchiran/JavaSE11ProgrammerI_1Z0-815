@@ -30,6 +30,11 @@ https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/Lambda-QuickStar
 https://docs.oracle.com/javase/tutorial/essential/exceptions/definition.html
 https://docs.oracle.com/javase/tutorial/essential/exceptions/throwing.html
 
+#Section 12:Understanding Modules
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/module-summary.html
+https://docs.oracle.com/en/java/javase/11/docs/api/java.se/module-summary.html
+https://docs.oracle.com/en/java/javase/11/docs/api/index.html
+
 ## Shortcuts
 psvm
 sout

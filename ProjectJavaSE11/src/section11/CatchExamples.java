@@ -62,6 +62,14 @@ public class CatchExamples {
             throw new RuntimeException("So many exceptions, so little time");
         }
 
+//        try {
+//
+//        }
+//        catch (CustomThrowable c){
+//
+//        }
+
+
         try {
 
         }

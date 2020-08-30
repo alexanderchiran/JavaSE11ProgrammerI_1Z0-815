@@ -1,0 +1,1 @@
+java --module-path out\production -m MiModulo1/modular.HelloWorld
