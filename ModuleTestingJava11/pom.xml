@@ -9,8 +9,8 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>MiModulo1</module>
-        <module>MiModulo2</module>
+        <module>Modulo1</module>
+        <module>Modulo2</module>
         <module>org.modul.global</module>
         <module>org.module.global1</module>
     </modules>
