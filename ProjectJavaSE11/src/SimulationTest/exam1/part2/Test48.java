@@ -9,7 +9,7 @@ public class Test48 extends AA {
     public void print() {
         AA obj = new AA();
         System.out.println(obj.i1); //Line 8
-        //'i2' has protected access in 'SimulationTest.exam1.test16.oca.AA'
+        //'i2' has protected access in 'AA'
        // System.out.println(obj.i2); //Line 9
         System.out.println(this.i2); //Line 10
         System.out.println(super.i2); //Line 11

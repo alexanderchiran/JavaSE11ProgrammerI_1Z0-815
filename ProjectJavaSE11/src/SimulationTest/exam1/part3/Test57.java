@@ -13,6 +13,7 @@ public class Test57 {
         list.add(new Integer(1));
         list.add(new Integer(0));
 
+        System.out.println(list.indexOf(0));
         list.remove(list.indexOf(0));
 
         System.out.println(list);

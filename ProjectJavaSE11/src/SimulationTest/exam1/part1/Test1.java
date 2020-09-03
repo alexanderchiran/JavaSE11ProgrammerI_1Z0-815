@@ -10,7 +10,7 @@ R/
 null
 Java
 Java
-SimulationTest.exam1.part1.SpecialString@27f674d
+SpecialString@27f674d
  */
 class SpecialString {
     String str;

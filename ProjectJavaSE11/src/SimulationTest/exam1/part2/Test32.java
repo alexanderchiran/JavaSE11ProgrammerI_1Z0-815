@@ -57,7 +57,7 @@ abstract class Animal {
 
 class Dog extends Animal {
     private String breed;
-    //Error There is no default constructor available in 'SimulationTest.exam1.part2.Animal'
+    //Error There is no default constructor available in 'Animal'
     //Dog(String breed) {
     Dog(String breed) {
         //solution 2

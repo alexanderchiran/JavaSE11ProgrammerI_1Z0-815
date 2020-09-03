@@ -1,7 +1,7 @@
 package SimulationTest.exam1.part1;
 
-//import SimulationTest.exam1.orders.Order;
-//import SimulationTest.exam1.orders.items.Item;
+//import Order;
+//import Item;
 
 import SimulationTest.exam1.orders.*;
 import SimulationTest.exam1.orders.items.*;

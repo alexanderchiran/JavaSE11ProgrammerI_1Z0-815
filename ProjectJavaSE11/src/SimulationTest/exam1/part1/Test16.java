@@ -12,8 +12,8 @@ What will be the result of compiling and executing Test class?
 public class Test16 {
     public static void main(String[] args) {
         A obj1 = new A();
-        //Exception in thread "main" java.lang.ClassCastException: class SimulationTest.exam1.test16.oca.A cannot be cast to class SimulationTest.exam1.test16.oca.B (SimulationTest.exam1.test16.oca.A and SimulationTest.exam1.test16.oca.B are in unnamed module of loader 'app')
-        //	at SimulationTest.exam1.part1.Test16.main(Test16.java:15)
+        //Exception in thread "main" java.lang.ClassCastException: class A cannot be cast to class B (A and B are in unnamed module of loader 'app')
+        //	at Test16.main(Test16.java:15)
         B obj2 = (B)obj1;
         obj2.print();
     }
