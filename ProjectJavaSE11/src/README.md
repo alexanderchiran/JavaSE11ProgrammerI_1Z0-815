@@ -38,3 +38,15 @@ https://docs.oracle.com/en/java/javase/11/docs/api/index.html
 ## Shortcuts
 psvm
 sout
+
+## compile class command line
+- salida al directorio classes
+- parado en la carpeta C:\DEV\DEV\Java\JavaSE11ProgrammerI_1Z0-815\ProjectJavaSE11>
+
+compila
+javac -d classes src\SimulationTest\exam3\part1\Test15.java
+corre
+java -cp c:\DEV\DEV\Java\JavaSE11ProgrammerI_1Z0-815\ProjectJavaSE11\classes SimulationTest.exam3.part1.Test15
+
+compilar directamenta Java 11
+java -cp c:\DEV\DEV\Java\JavaSE11ProgrammerI_1Z0-815\ProjectJavaSE11\src SimulationTest.exam3.part1.Test15.java
