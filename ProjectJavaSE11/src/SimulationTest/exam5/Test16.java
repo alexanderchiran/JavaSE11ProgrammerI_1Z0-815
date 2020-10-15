@@ -3,6 +3,7 @@ package SimulationTest.exam5;
 import java.io.IOException;
 import java.sql.SQLException;
 import java.sql.SQLWarning;
+import java.time.LocalDate;
 
 interface Multiplier {
     void multiply(int... x) throws SQLException;
@@ -120,10 +121,7 @@ class Test16C {
 class Parent {
     Parent() throws IOException {
     System.out.print("HAKUNA");
-        String cad ="""
-				hola
-				mundo
-				""";
+
 }
 }
 
@@ -139,3 +137,35 @@ class Test16D {
     }
 }
 //----------------------------------------------------------------------------------------------------------------------
+abstract class Animal {
+    abstract void jump() throws RuntimeException;
+}
+
+class Deer extends Animal {
+    void jump() { //Line n1
+        System.out.println("DEER JUMPS");
+    }
+
+    void jump(int i) {
+        System.out.println("DEER JUMPS TO " + i + " FEET");
+    }
+}
+
+ class Test16E {
+    public static void main(String[] args) {
+        Animal animal = new Deer();
+        ((Deer)animal).jump(); //Line n2
+        ((Deer)animal).jump(5); //Line n3
+    }
+}
+//----------------------------------------------------------------------------------------------------------------------
+class Test16F {
+    public static void main(String [] args) {
+        LocalDate date = LocalDate.parse("1983-06-30");
+        System.out.println(date.plusMonths(8));
+
+        date = LocalDate.parse("2020-01-31");
+        System.out.println(date.plusMonths(1));
+    }
+}
+
