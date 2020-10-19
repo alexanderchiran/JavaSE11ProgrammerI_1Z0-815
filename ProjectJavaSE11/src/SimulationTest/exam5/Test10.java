@@ -27,7 +27,7 @@ public class Test10 {
             throw new SQLException();
         } catch (Exception e) {
             e = null; //Line 10
-
+            throw null;
             //Unhandled exception: java.lang.Exception
             //throw e; //Line 11
         }

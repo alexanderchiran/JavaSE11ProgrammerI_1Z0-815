@@ -151,14 +151,98 @@ class Calculator {
     double calculate(byte b1, byte b2) {
         return b1 % b2;
     }
+
+    int calculate(int b1, byte b2) {
+        return b1 % b2;
+    }
+
+    double calculate(double b1, double b2) {
+        return b1 * b2;
+    }
+
+    String calculate(String b1, String b2) {
+        return b1 + b2;
+    }
 }
 
 class Test3G {
     public static void main(String[] args) {
         byte b = 100;
         int i = 20;
+        double d =10;
+        String cad="HOLA";
         System.out.println(new Calculator().calculate(b, i));
+        System.out.println(new Calculator().calculate(i, d));
+        //Cannot resolve method 'calculate(java.lang.String, int)'
+        //System.out.println(new Calculator().calculate(cad, i));
     }
 }
 //----------------------------------------------------------------------------------------------------------------------
+class Test3H {
+    public static void main(String[] args) {
+        int elements = 0;
+        Object [] arr = {"A", "E", "I", new Object(), "O", "U"}; //Line n1
+        for(Object obj : arr) { //Line n2
+            if(obj instanceof String) {
+                continue;
+            } else {
+                break;
+            }
+            //Unreachable statement
+            //elements++; //Line n3
+        }
+        System.out.println(elements); //Line n4
+    }
+}
+//----------------------------------------------------------------------------------------------------------------------
+class Test3I {
+    public static void main(String [] args) {
+        boolean status = true;
+        //Variable expected
+        //System.out.println(status = false || status = true | status = false);
+        //System.out.println(status = false || status = true);
+        System.out.println(status = false || status);
+        System.out.println(status);
+        int i=0;
+        for (System.out.println("val0 :"+i);i<5; System.out.println("val2 :"+i++) ){
+            System.out.println("val1 :"+i++);
+        }
+    }
+}
+//----------------------------------------------------------------------------------------------------------------------
+interface M {
+    public static void log() {
+        System.out.println("MM");
+    }
+}
+
+abstract class AA {
+    public static void log() {
+        System.out.println("N--");
+    }
+    public void log1() {
+        System.out.println("N1");
+    }
+}
+
+class MyClass extends AA implements M {}
+
+class Test3J {
+    public static void main(String[] args) {
+        M obj1 = new MyClass();
+        //Static method may be invoked on containing interface class only
+        //obj1.log(); //Line n1
+        M.log();
+
+        AA obj2 = new MyClass();
+        obj2.log(); //Line n2
+
+        MyClass obj3 = new MyClass();
+        obj3.log(); //Line n3
+        obj3.log1();
+
+        M var ;
+
+    }
+}
 //----------------------------------------------------------------------------------------------------------------------
