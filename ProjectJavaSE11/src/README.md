@@ -46,7 +46,7 @@ sout
 compila
 javac -d classes src\SimulationTest\exam3\part1\Test15.java
 corre
-java -cp c:\DEV\DEV\Java\JavaSE11ProgrammerI_1Z0-815\ProjectJavaSE11\classes SimulationTest.exam3.part1.Test15
+java -cp c:\DEV\DEV\Java\JavaSE11ProgrammerI_1Z0-815\ProjectJavaSE11\classes SimulationTest.one.exam6.part1.Test15
 
 compilar directamenta Java 11
-java -cp c:\DEV\DEV\Java\JavaSE11ProgrammerI_1Z0-815\ProjectJavaSE11\src SimulationTest.exam3.part1.Test15.java
+java -cp c:\DEV\DEV\Java\JavaSE11ProgrammerI_1Z0-815\ProjectJavaSE11\src SimulationTest.one.exam6.part1.Test15.java
